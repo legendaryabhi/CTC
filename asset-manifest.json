@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/CTC/static/css/main.b0fc4290.css",
-    "main.js": "/CTC/static/js/main.8b23c6f5.js",
+    "main.css": "/CTC/static/css/main.94e5c00b.css",
+    "main.js": "/CTC/static/js/main.428692de.js",
     "static/js/787.4ab15243.chunk.js": "/CTC/static/js/787.4ab15243.chunk.js",
     "static/media/header-img.gif": "/CTC/static/media/header-img.cef3a7ae1ee19d393816.gif",
+    "static/media/ourapp.gif": "/CTC/static/media/ourapp.821c7cb1dd5284600f3c.gif",
+    "static/media/chatgpt.gif": "/CTC/static/media/chatgpt.af2691dc5edc2e7c7105.gif",
     "static/media/color-sharp.png": "/CTC/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/CTC/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/2.jpeg": "/CTC/static/media/2.0459c1a0dff3d7c5d298.jpeg",
-    "static/media/chatgpt.jpeg": "/CTC/static/media/chatgpt.f75337ea3ac27a260e56.jpeg",
     "static/media/CentraNo2-Bold.ttf": "/CTC/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/CTC/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/CTC/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
-    "static/media/ourapp.jpeg": "/CTC/static/media/ourapp.d1d3cb7a6ae1d9c51b51.jpeg",
     "static/media/3.jpeg": "/CTC/static/media/3.a0008f29d6c758f63b09.jpeg",
     "static/media/footer-bg.png": "/CTC/static/media/footer-bg.7bd67c0f73571d0acc02.png",
     "static/media/1.jpeg": "/CTC/static/media/1.99922bf6c1dff323f3b5.jpeg",
@@ -26,12 +26,12 @@
     "static/media/arrow2.svg": "/CTC/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/CTC/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon3.svg": "/CTC/static/media/nav-icon3.b0bb58855c0493f47fde69e48c9806d5.svg",
-    "main.b0fc4290.css.map": "/CTC/static/css/main.b0fc4290.css.map",
-    "main.8b23c6f5.js.map": "/CTC/static/js/main.8b23c6f5.js.map",
+    "main.94e5c00b.css.map": "/CTC/static/css/main.94e5c00b.css.map",
+    "main.428692de.js.map": "/CTC/static/js/main.428692de.js.map",
     "787.4ab15243.chunk.js.map": "/CTC/static/js/787.4ab15243.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0fc4290.css",
-    "static/js/main.8b23c6f5.js"
+    "static/css/main.94e5c00b.css",
+    "static/js/main.428692de.js"
   ]
 }
